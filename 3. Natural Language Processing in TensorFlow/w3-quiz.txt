@@ -7,13 +7,13 @@ Why does sequence make a large difference when determining semantics of language
 Because the order in which words appear dictate their meaning
 
 
-Because the order of words doesn’t matter
+Because the order of words doesnâ€™t matter
 
 
 - Because the order in which words appear dictate their impact on the meaning of the sentence
 
 
-It doesn’t
+It doesnâ€™t
 
 Question 21
 point
@@ -30,18 +30,18 @@ They shuffle the words evenly
 They look at the whole sentence at a time
 
 
-They don’t
+They donâ€™t
 
 Question 31
 point
 3. Question 3
-How does an LSTM help understand meaning when words that qualify each other aren’t necessarily beside each other in a sentence?
+How does an LSTM help understand meaning when words that qualify each other arenâ€™t necessarily beside each other in a sentence?
 
 
 - Values from earlier words can be carried to later ones via a cell state
 
 
-They don’t
+They donâ€™t
 
 
 They shuffle the words randomly
@@ -69,7 +69,7 @@ Unilateral
 Question 51
 point
 5. Question 5
-What’s the output shape of a bidirectional LSTM layer with 64 units?
+Whatâ€™s the output shape of a bidirectional LSTM layer with 64 units?
 
 
 - (None, 128)
@@ -103,7 +103,7 @@ Do nothing, TensorFlow handles this automatically
 Question 71
 point
 7. Question 7
-If a sentence has 120 tokens in it, and a Conv1D with 128 filters with a Kernal size of 5 is passed over it, what’s the output shape?
+If a sentence has 120 tokens in it, and a Conv1D with 128 filters with a Kernal size of 5 is passed over it, whatâ€™s the output shape?
 
 
 (None, 120, 124)
@@ -120,7 +120,7 @@ If a sentence has 120 tokens in it, and a Conv1D with 128 filters with a Kernal 
 Question 81
 point
 8. Question 8
-What’s the best way to avoid overfitting in NLP datasets?
+Whatâ€™s the best way to avoid overfitting in NLP datasets?
 
 
 Use LSTMs
@@ -133,3 +133,4 @@ Use Conv1D
 
 
 - None of the above
+.
